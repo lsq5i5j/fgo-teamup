@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fgo-teamup/precache-manifest.d1e51a8050398a18a2d66cd2868942e5.js"
+  "/fgo-teamup/precache-manifest.516c1a3fcb6b5aa30a688cd9a13560c6.js"
 );
 
 self.addEventListener('message', (event) => {
