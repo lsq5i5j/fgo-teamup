@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a6314b6d82baa5fef944c2ab3d3dafb",
+    "revision": "fe29865761292855dfdc9c2ea36e9a49",
     "url": "/fgo-teamup/index.html"
   },
   {
-    "revision": "92d19314b0f4a6aa1f89",
+    "revision": "15c4f2d83b592fd2fe4e",
     "url": "/fgo-teamup/static/css/main.84fe22a4.chunk.css"
   },
   {
-    "revision": "b18c3fa5d08fbf9975ed",
-    "url": "/fgo-teamup/static/js/0.298dbd05.chunk.js"
+    "revision": "88736212a2e07217559d",
+    "url": "/fgo-teamup/static/js/0.4fbd7f2a.chunk.js"
   },
   {
     "revision": "3e36a135f011dc72ae961f372ad4e6e4",
-    "url": "/fgo-teamup/static/js/0.298dbd05.chunk.js.LICENSE.txt"
+    "url": "/fgo-teamup/static/js/0.4fbd7f2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18e4e5d3fbdbf0896fb2",
-    "url": "/fgo-teamup/static/js/1.0451c2c1.chunk.js"
+    "revision": "5b1feed4587e7cd8e7ce",
+    "url": "/fgo-teamup/static/js/1.4c71c9ff.chunk.js"
   },
   {
     "revision": "8005e4baec07cefe7977",
@@ -28,56 +28,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fgo-teamup/static/js/10.421492f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c56914e8654c4e1dc48",
-    "url": "/fgo-teamup/static/js/11.2401da24.chunk.js"
+    "revision": "ccf644a3b904e6216941",
+    "url": "/fgo-teamup/static/js/11.5bb35231.chunk.js"
   },
   {
-    "revision": "4d585d5d2dd4a6e8b7af",
-    "url": "/fgo-teamup/static/js/12.1b25c98d.chunk.js"
+    "revision": "c27e20d79e6b0f363297",
+    "url": "/fgo-teamup/static/js/12.577b366c.chunk.js"
   },
   {
-    "revision": "d60a7ea0c13105bc5dba",
-    "url": "/fgo-teamup/static/js/13.4b885067.chunk.js"
+    "revision": "a733707b59420117559b",
+    "url": "/fgo-teamup/static/js/13.242481f6.chunk.js"
   },
   {
-    "revision": "55dfe9c001000d08eea4",
-    "url": "/fgo-teamup/static/js/2.75d08783.chunk.js"
+    "revision": "35a59e37b22875b7d5ca",
+    "url": "/fgo-teamup/static/js/2.7d40b178.chunk.js"
   },
   {
-    "revision": "bbb9662582f066fbf8cd",
-    "url": "/fgo-teamup/static/js/3.71203379.chunk.js"
+    "revision": "b69cacf8fcabbf1117b3",
+    "url": "/fgo-teamup/static/js/3.927f2049.chunk.js"
   },
   {
-    "revision": "1dbb7d78f24ccde95993",
-    "url": "/fgo-teamup/static/js/4.274a2dbc.chunk.js"
+    "revision": "069954b4bbd615de82bd",
+    "url": "/fgo-teamup/static/js/4.f4616226.chunk.js"
   },
   {
     "revision": "fd7525d544dd9c67d07855cb8778e590",
-    "url": "/fgo-teamup/static/js/4.274a2dbc.chunk.js.LICENSE.txt"
+    "url": "/fgo-teamup/static/js/4.f4616226.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf94c82edc6c1526b538",
-    "url": "/fgo-teamup/static/js/7.9902adc7.chunk.js"
+    "revision": "3ea870f2b127ed1abfb8",
+    "url": "/fgo-teamup/static/js/7.9e7edfff.chunk.js"
   },
   {
     "revision": "3df54bba2137ec524f3fb39f2c61461a",
-    "url": "/fgo-teamup/static/js/7.9902adc7.chunk.js.LICENSE.txt"
+    "url": "/fgo-teamup/static/js/7.9e7edfff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cb8206090a5979f29e0",
-    "url": "/fgo-teamup/static/js/8.08d97555.chunk.js"
+    "revision": "81e04ef5b06d7de34be3",
+    "url": "/fgo-teamup/static/js/8.45b229b9.chunk.js"
   },
   {
-    "revision": "8f183b53ba7445216974",
-    "url": "/fgo-teamup/static/js/9.3350c1c9.chunk.js"
+    "revision": "9c0a7bc29da51badbaac",
+    "url": "/fgo-teamup/static/js/9.31c2743c.chunk.js"
   },
   {
-    "revision": "92d19314b0f4a6aa1f89",
-    "url": "/fgo-teamup/static/js/main.97b45ac8.chunk.js"
+    "revision": "15c4f2d83b592fd2fe4e",
+    "url": "/fgo-teamup/static/js/main.8bb4c41d.chunk.js"
   },
   {
-    "revision": "76a655c95140e55e30f7",
-    "url": "/fgo-teamup/static/js/runtime-main.bcd3a3d1.js"
+    "revision": "1cbdd7312152430237f5",
+    "url": "/fgo-teamup/static/js/runtime-main.e0b3505a.js"
   },
   {
     "revision": "c2d62a672fc1fc199ecb168d80f6e74d",
@@ -2636,6 +2636,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fgo-teamup/static/media/对肃正防御.03dc42da.png"
   },
   {
+    "revision": "1953e36e15af8e2592ab9a6957b7d0c0",
+    "url": "/fgo-teamup/static/media/对肃正防御化.1953e36e.png"
+  },
+  {
     "revision": "672058c2816d339518ed8958e61a7260",
     "url": "/fgo-teamup/static/media/对魔力.672058c2.png"
   },
@@ -2838,6 +2842,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "284a29b8051c761693e2bcb818d71ed8",
     "url": "/fgo-teamup/static/media/情报室佛劳洛斯_头像.284a29b8.png"
+  },
+  {
+    "revision": "178bf8620f669e25740c02ee04e91e88",
+    "url": "/fgo-teamup/static/media/战士之司.178bf862.png"
   },
   {
     "revision": "7732e6eddde843749b7c9f7956dd821f",
